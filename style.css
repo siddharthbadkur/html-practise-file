@@ -1,0 +1,30 @@
+nav   {
+   display: flex;
+   flex-direction: row;
+   justify-content: end;
+   gap: 100px;
+   text-decoration: none;
+   text-emphasis: none;
+   color: none;
+   text-decoration-skip: none;
+   
+   
+}
+#navbar .btn{
+height: 50px;
+width: 100px;
+color: rgb(21, 193, 21);
+background-color: green;
+}
+#navbar{
+   height: 80px;
+   width: 100%;
+   background-color: rgb(136, 136, 148);
+   /* background: transparent; */
+
+}
+/* .content {
+   height: 100px;
+   width: 100px;
+   background-color: blue;
+} */
